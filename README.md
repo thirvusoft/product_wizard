@@ -10,5 +10,4 @@
 <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;today date, the condition will satisfied throw the message to login process <p>
 </div>
 <br>
-<a href="#Outof Box Burst Out">1.User Not Allowed When Subscription End Date </a>
 <h4><b> Outof Box Burst Out</b></h4>

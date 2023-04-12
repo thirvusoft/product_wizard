@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include product_wizard *.css
+recursive-include product_wizard *.csv
+recursive-include product_wizard *.html
+recursive-include product_wizard *.ico
+recursive-include product_wizard *.js
+recursive-include product_wizard *.json
+recursive-include product_wizard *.md
+recursive-include product_wizard *.png
+recursive-include product_wizard *.py
+recursive-include product_wizard *.svg
+recursive-include product_wizard *.txt
+recursive-exclude product_wizard *.pyc

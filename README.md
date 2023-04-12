@@ -1,6 +1,5 @@
 ## Product Wizard
 <h4><b> Product List </b></h4>
-<h5><b>1.User Not Allowed When Subscription End Date </b></h5>
 <a href="#1.User Not Allowed When Subscription End Date ">1.User Not Allowed When Subscription End Date </a>
 <p> File Path: apps/product_wizard/product_wizard/product_wizard/backup_files/auth.py </p>
 <p> Function: authenticate </p>
@@ -11,4 +10,5 @@
 <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;today date, the condition will satisfied throw the message to login process <p>
 </div>
 <br>
+<a href="#Outof Box Burst Out">1.User Not Allowed When Subscription End Date </a>
 <h4><b> Outof Box Burst Out</b></h4>

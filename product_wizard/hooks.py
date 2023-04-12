@@ -57,7 +57,7 @@ app_license = "MIT"
 # ------------
 
 # before_install = "product_wizard.install.before_install"
-# after_install = "product_wizard.install.after_install"
+after_install = "product_wizard.product_wizard.after_install.after_install"
 
 # Uninstallation
 # ------------

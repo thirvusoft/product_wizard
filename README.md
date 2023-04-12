@@ -1,13 +1,9 @@
 ## Product Wizard
 <h4><b> Product List </b></h4>
-<p><b>1.User Not Allowed When Subscription End Date </b></p>
-<div id="#1.User Not Allowed When Subscription End Date ">
-	<h2>1.User Not Allowed When Subscription End Date </h2>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-		Sed non risus. Suspendisse lectus tortor, dignissim sit amet,
-		adipiscing nec, ultricies sed, dolor. Lorem ipsum dolor sit amet, 
-        consectetur adipiscing elit.
-	</p>
-</div>
-<a href="#1.User Not Allowed When Subscription End Date">Go</a>
+<h5><b>1.User Not Allowed When Subscription End Date </b></h5>
+<p> File Path: apps/product_wizard/product_wizard/product_wizard/backup_files/auth.py </p>
+<p> Function: authenticate </p>
+<p> Modification : Get Customer List and Compare Login User And Customer User Id is Same </p>
+&nbsp;&nbsp;&nbsp; <p> then check condition satisfied and get Subscription List of customer and <p>
+&nbsp;&nbsp;&nbsp; <p> taken the end date of subscription of customer and check this end date was grater than<p>
+&nbsp;&nbsp;&nbsp; <p> today date, the condition will satisfied throw the message to login process <p>

@@ -11,4 +11,9 @@
 <p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;today date, the condition will satisfied throw the message to login process <p>
 </div>
 <br>
+<a href="#2.User Location Adding in Activity Log ">2.User Location Adding in Activity Log </a>
+<p> File Path: apps/product_wizard/product_wizard/product_wizard/backup_files/activity_log.py </p>
+<p> Function: add_authentication_log</p>
+<p> Modification: Install geocoder Package and get user ip then get lat long list and it </p>
+<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; get location of ip lat long </p>
 <h4><b> Outof Box Burst Out</b></h4>
